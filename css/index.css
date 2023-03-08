@@ -1,0 +1,31 @@
+/* Created by mobile first */
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #d5e1ef;
+    font-family: 'Outfit', sans-serif;
+    padding: 20px;
+}
+.card{
+    padding:20px 15px;
+    margin:auto;
+    background-color: white;
+    text-align: center;
+    border-radius: 15px;
+    max-width: 300px;
+}
+.card img{
+    max-width: 100%;
+    border-radius: 13px;
+}
+.card .info h1{
+    font-size: 20px;
+    margin: 15px 0;
+}
+.card .info p{
+    font-size: 15px;
+    color: #00000080;
+}
